@@ -3,6 +3,6 @@ class divide{
     {
         int a=3;
         int b=9;
-        System.out.println(a/b);
+        System.out.println("Divide number is"+a/b);
     }
-}
+}  

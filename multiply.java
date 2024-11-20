@@ -3,6 +3,6 @@ class multiply{
     {
         int a=3;
         int b=9;
-        System.out.println(a*b);
+        System.out.println("Multiply number is"+a*b);
     }
 }
